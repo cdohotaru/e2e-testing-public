@@ -1,0 +1,19 @@
+{
+    "parserOptions": {
+      "ecmaVersion": 2018
+    },
+  
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    
+    "extends": "airbnb",
+    "parser": "babel-eslint",
+    "rules": {
+      "max-len": ["error", { "code": 150 }],
+      "quotes": ["error", "double"],
+      "react/destructuring-assignment": ["never"],
+      "react/forbid-prop-types":["disabled"]
+    }
+  }
