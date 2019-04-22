@@ -1,5 +1,5 @@
 This is the accompanying source code for the Principles of end-to-end web-testing article. 
-To read the article follow this link: 
+To read the article follow this link: https://medium.com/@cdohotaru/principles-of-end-to-end-web-testing-7fa7d27d7826
 
 Commands to start and use the project:
 
